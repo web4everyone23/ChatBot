@@ -25,17 +25,17 @@ Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
 ## Layout 1
  <p align="center">
-  <img src="https://github.com/rounakbhowmick/ChatBot/blob/main/Layout1.png" width="800px">
+  <img src="https://github.com/web4everyone23/ChatBot/blob/main/Layout1.png" width="800px">
 </p>
 
 ## Layout 2
  <p align="center">
-  <img src="https://github.com/rounakbhowmick/ChatBot/blob/main/Layout2.png" width="800px">
+  <img src="https://github.com/web4everyone23/ChatBot/blob/main/Layout2.png" width="800px">
 </p>
 
 ## Layout 3
  <p align="center">
-  <img src="https://github.com/rounakbhowmick/ChatBot/blob/main/Layout3.png" width="800px">
+  <img src="https://github.com/web4everyone23/ChatBot/blob/main/Layout3.png" width="800px">
 </p>
 
 
